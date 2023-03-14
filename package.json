@@ -1,0 +1,25 @@
+{
+  "name": "disciplinethyself",
+  "version": "1.0.0",
+  "description": "Backend for disciplinethyself",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StealthSov/DisciplineThySelf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StealthSov/DisciplineThySelf/issues"
+  },
+  "homepage": "https://github.com/StealthSov/DisciplineThySelf#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  }
+}
